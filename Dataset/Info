@@ -1,0 +1,2 @@
+->Contains the datset on which the classification model was trained
+->Has two sub directory files which are the two classes the model classifies the objects into sand or plastic
